@@ -1,0 +1,2 @@
+# Socket_Communication_Demo
+通过Scoket建立Server获取client反馈的信息，并在PyQt5开发的UI上呈现不同的进度。
